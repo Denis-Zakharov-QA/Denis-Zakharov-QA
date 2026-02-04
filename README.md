@@ -98,12 +98,11 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/refs/heads/main/Middle-ru.png)
-[<img src="/Recommendation-1.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/blob/main/Recommendation-1.png)
+[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis-Zakharov-QA/Denis-Zakharov-QA/refs/heads/main/Diplom.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ne.den8@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nezhnyansky)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:d.zaharov.2026@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DDDZZZ9)
