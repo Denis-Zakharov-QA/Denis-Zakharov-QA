@@ -99,7 +99,7 @@
 
 ## 🎒 Образование
 [<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis-Zakharov-QA/Denis-Zakharov-QA/refs/heads/main/Diplom.png)
-[<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis-Zakharov-QA/Denis-Zakharov-QA/refs/heads/main/stepik.png)
+[<img src="/stepik.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis-Zakharov-QA/Denis-Zakharov-QA/refs/heads/main/stepik.png)
 
 <br>
 <br>
